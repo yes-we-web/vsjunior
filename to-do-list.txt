@@ -1,0 +1,10 @@
+[] Présentation VScode, son histoire, sa philosophie
+[] GIF "Selectionner le language"
+[] Les shortcuts
+[] Demo interactive playground, GIF expand, expliquer l'intéret
+[] Extensions, les must-have.
+[] Demo liveshare
+[] Video demo html shortcuts + comparatif
+[] VSCode et Git / Github
+    [] Connection SSH VSCode
+    [] Comment lier son terminal à VSCode
