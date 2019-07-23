@@ -4,7 +4,7 @@
 [] Demo interactive playground, GIF expand, expliquer l'intéret
 [] Extensions, les must-have.
 [] Demo liveshare
-[] Video demo html shortcuts + comparatif
+[] Comparatif d'editeurs de code (VS/Sublime_Text)
 [] VSCode et Git / Github
     [] Connection SSH VSCode
     [] Comment lier son terminal à VSCode
