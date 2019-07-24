@@ -1,0 +1,17 @@
+Qu'est ce que Visual Code (Vscode) ?
+
+- Un éditeur de code "cross-platform" (plusieurs platformes), open source sous licence MIT (MIT car elle provient du Massachusetts Institute of Technology), gratuit présenter en Avril 2015 à la conf des dév BUILD
+- Code souce fournit sur GitHub, cependant, l'exécutable est privé et proposé par Microsoft. 
+- Il supporte une dizaine de langages dont : JavaScript, HTML, CSS, par exemple. Mais beaucoup d'autres grâce au marché d'extension offert par la communauté travaillant sur le projet VScode sur GitHub.
+- UN IDE (Integrated development environment) qui se plasse en tête des projets avec un grand nombre de contributeurs sur la plateforme GitHub
+- Un éditeur de code écrit en TypeScript et JavaScript (alors que par exmeple Sublime Text est ecrit en C++ et Python)
+- Pricipal Point Faible : Inadapté à la manipulation de gros fichiers de code
+- Principal Point Fort : Architecture à base d'extension
+- IDE très léger, pouvant être étendu selon les besoin de son utilisateur
+- Un moteur de gestion très puissant, grace notamment à un moteur d'auto-complétion de code (IntelliSense)
+- Une interface qui communique par defaut avec Git
+- Lors d'une transition d'un utilisateur d'un éditeur de code différent pour VsCode, celui çi peut importer si besoin les raccourcis clavier de ses autres éditeurs
+- VsCode est dans un processus de DEVELOPPEMENT CONTINU (2maj/mois)
+- // SI Microsoft s'est lancé dans le projet, c'est dans le but de racheté une conduite auprès des devs
+
+Conclusion : VsCode est un éditeur de code fonctionnel, supportant pas mal de langages et de fonctionnalités faisant gagnés en temps et en productivité et étant personalisable en fonction des besoins de son utilisateur, grâce à des extensions créées par la comunauté GitHub.
