@@ -2636,6 +2636,8 @@ input, select, textarea {
 			display: block;
 			margin: 4rem 0;
 			width: 100%;
+			text-align: center;
+			font-size: 60%;
 		}
 
 			.image.main:first-child {
@@ -2683,6 +2685,12 @@ input, select, textarea {
 		height: 200px;
 		margin-top: -50px;
 		margin-bottom: 25px;
+	}
+
+/* Website Description on Footer */
+
+	.website_desc {
+		text-align: center;
 	}
 
 /* Actions */
