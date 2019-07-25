@@ -14,4 +14,4 @@ Qu'est-ce que Visual Code (Vscode) ?
 - VsCode est dans un processus de DEVELOPPEMENT CONTINU (2maj/mois) 
 - // SI Microsoft s'est lancé dans le projet, c'est dans le but de racommunauté GitHub.
 
-Conclusion : VsCode est un éditeur de code fonctionnel, supportant pas mal de langages et de fonctionnalités faisant gagnés en temps et en productivité et étant personnalisable en fonction des besoins de son utilisateur, grâce à des extensions créées par la communauté GitHub.
+Conclusion : VsCode est un éditeur de code fonctionnel, supportant pas mal de langages et de fonctionnalités faisant gagnées en temps et en productivité et étant personnalisable en fonction des besoins de son utilisateur, grâce à des extensions créées par la communauté GitHub.
