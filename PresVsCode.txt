@@ -1,4 +1,4 @@
-Qu'est-ce que Visual Code (Vscode) ? qsqjnbjknde
+Qu'est-ce que Visual Code (Vscode) ?
 
 - Un éditeur de code "cross-platform" (plusieurs plates-formes), open source sous licence MIT (MIT, car elle provient de la Massachusetts Institute of Technology), gratuit présenter en avril 2015 à la conf des dév BUILD 
 - Code source fournit sur GitHub, cependant, l'exécutable est privé et proposé par Microsoft. 
